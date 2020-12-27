@@ -1,4 +1,4 @@
-
+//Made By iH8s4N
 //*Hubo unos errores en el sistema encargado de la revision de ciertos DNI
 //*Por lo cual, se cito a las personas afectadas para que puedan acercarse 
 //*a la SUNAT con el motivo de poder arreglar el problema de su Doc. Identidad.
